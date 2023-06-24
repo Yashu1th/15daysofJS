@@ -1,2 +1,2 @@
 # 15daysofJS
-Creating 15 different Javascript projects in 15 days
+Creating 15 different Javascript web applications in 15 days
